@@ -125,17 +125,6 @@ p {
   gap: 16px;
 }
 
-.nav-toggle,
-.nav-close {
-  display: none;
-}
-
-.nav-toggle img,
-.nav-close img {
-  width: 22px;
-  height: 22px;
-}
-
 .hero,
 .authors-section {
   position: relative;
@@ -144,7 +133,7 @@ p {
 
 .hero {
   padding: 126px 0 62px;
-  background: #FFF085;
+  background: #fff085;
   border-bottom: 3px solid var(--black);
 }
 
@@ -847,8 +836,8 @@ p {
 }
 
 .social-twitter:hover {
-  background: #1DA1F2;
-  border-color: #1DA1F2;
+  background: #1da1f2;
+  border-color: #1da1f2;
 }
 
 .social-linkedin:hover {
@@ -857,8 +846,8 @@ p {
 }
 
 .social-instagram:hover {
-  background: #E60076;
-  border-color: #E60076;
+  background: #e60076;
+  border-color: #e60076;
 }
 
 .social-links img {

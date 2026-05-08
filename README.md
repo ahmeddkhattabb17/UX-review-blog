@@ -1,2 +1,1 @@
-# UX-review-blog
-The UX review blog created for the people to learn more about the UX careers
+A clean and responsive UX blog website built using HTML and CSS only. Designed for UX developers and designers to share articles, ideas, and user experience insights with a modern and user-friendly interface.
